@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habit é um app para ajudar a monitorar os hábitos.
+O Habits é um app para ajudar a monitorar os hábitos.
+
+- [Visite o projeto online] (https://naiadefc.github.io/nlw-setup)
 
 ## 🔖 Layout
 
